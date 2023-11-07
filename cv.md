@@ -1,4 +1,5 @@
 # Roman Shashin
+![Employee's photo](./images/avatar.jpg)
 ## Contact information:
 **Phone:** +7 999 1219245  
 **E-mail:** propeller1992@gmail.com  
