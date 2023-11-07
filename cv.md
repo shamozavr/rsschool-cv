@@ -45,3 +45,16 @@ function high(x){
 ```
 ## Portfolio
 [Sedona](https://github.com/shamozavr/1897333-sedona-28)
+## Education
+* Lobachevsky State University of Nizhni Novgorod
+    * National Economy, Economist
+* Linguistics University of Nizhny Novgorod
+    * Faculty of Translation, Translator
+* [HTML Academy](https://htmlacademy.ru/)
+    * HTML and CSS. Responsive layout and automation
+* RS Schools Course
+    * «JavaScript/Front-end. Stage 0» (in progress)
+## Languages
+* **English** - Intermediate/Upper-intermediate  
+* **French** - A2  
+* **Russian** - Native  
