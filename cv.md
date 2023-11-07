@@ -45,7 +45,9 @@ function high(x){
 }
 ```
 ## Portfolio
-[Sedona](https://github.com/shamozavr/1897333-sedona-28)
+[Sedona](https://github.com/shamozavr/1897333-sedona-28)\
+[Kekstagram](https://romanshashin-kektagram.netlify.app)\
+[Samokat](https://romanshashin-yasamokat.netlify.app)
 ## Education
 * Lobachevsky State University of Nizhni Novgorod
     * National Economy, Economist
