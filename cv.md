@@ -58,4 +58,6 @@ function high(x){
 ## Languages
 * **English** - Intermediate/Upper-intermediate  
 * **French** - A2  
-* **Russian** - Native  
+* **Russian** - Native
+#### Certificates
+![HTML Academy HTML and CSS Certificate. Responsive layout and automation](./images/HTML_academy_cert.jpg)
